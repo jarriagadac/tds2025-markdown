@@ -12,3 +12,5 @@
 
 - https://mermaid.js.org/intro/
 - https://mermaid.live/
+- https://marp.app/
+- https://github.com/marp-team/marp-core

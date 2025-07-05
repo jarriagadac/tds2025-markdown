@@ -1,9 +1,4 @@
 ---
-theme: gaia
-_class: lead
-paginate: true
-backgroundColor: #fff
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 ---
 
@@ -16,15 +11,13 @@ Markdown Presentation Ecosystem
 https://marp.app/
 
 ---
-
+<!-- _class: titulo -->
 # How to write slides
 
 Split pages by horizontal ruler (`---`). It's very simple! :satisfied:
 
 ```markdown
 # Slide 1
-
-foobar
 
 ---
 
