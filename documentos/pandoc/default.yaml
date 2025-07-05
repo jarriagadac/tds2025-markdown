@@ -1,0 +1,6 @@
+pdf-engine: xelatex
+number-sections: true
+include-in-header: pandoc/header.tex
+variables:
+  geometry: margin=2.5cm
+  fontsize: 11pt

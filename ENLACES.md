@@ -14,3 +14,7 @@
 - https://mermaid.live/
 - https://marp.app/
 - https://github.com/marp-team/marp-core
+
+
+#TODO agregar doc de pandoc
+#TODO agregar el visualizador de mermaid en Marp
