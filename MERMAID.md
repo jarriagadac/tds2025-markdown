@@ -24,6 +24,7 @@ flowchart LR
 sequenceDiagram
     Alice->>John: Hello John, how are you?
     John-->>Alice: Great!
+    Alice-->>John: Super Great!
     Alice-)John: See you later!
 ```
 
